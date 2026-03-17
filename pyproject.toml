@@ -1,0 +1,10 @@
+[project]
+name = "gasprom-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dvc>=3.67.0",
+    "pandas>=3.0.1",
+]
